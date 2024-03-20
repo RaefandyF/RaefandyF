@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RaefandyF
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java programming
-- 💞️ I’m looking to collaborate on app developer
+- 🌱 I’m currently Front End Developer
+- 💞️ I’m looking to collaborate on Web Developer
 - 📫 How to reach me raefandyfadila@rfstore.net
 
 <!---
