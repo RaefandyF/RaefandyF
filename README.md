@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @RaefandyF
-- 👀 I’m interested in coding
-- 🌱 I’m currently Front End Developer
-- 💞️ I’m looking to collaborate on Web Developer
-- 📫 How to reach me raefandyfadila@rfstore.net
+- 👀 I’m interested in code
+- 🌱 I’m currently Software Engineer
+- 📫 How to reach me raefandyfa@gmail.com
 
 <!---
 RaefandyF/RaefandyF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
